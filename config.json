@@ -1,10 +1,7 @@
 [
   {
-    "url": "https://example.com",
+    "url": "https://nepalipaisa.com/ipo?utm_source",
     "selector": "h2"
-  },
-  {
-    "url": "https://news.ycombinator.com/",
-    "selector": ".titleline a"
   }
 ]
+
